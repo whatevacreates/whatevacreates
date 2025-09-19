@@ -1,9 +1,9 @@
 <!-- Top Banner -->
 <div align="center">
-  <img src="image.png" alt="Eva — AI & UX" width="220"><br><br>
+  <img src="image.png" alt="Eva — AI & UX" width="150"><br><br>
 </div>
 
-# <div align="center">Hi, I’m Eva</div>
+<h1 align="center"><i><font color="#1abc9c">Hi, I’m Eva Anna</font></i></h1>
 
 <div align="center">
 I’m a <b>Full-Stack Developer & Creative Technologist</b> based in Switzerland.  
@@ -18,7 +18,7 @@ I combine <b>10+ years of global design leadership</b> with software engineering
   <img src="image-1.png" alt="wave" width="320">
 </p>
 
-## <div align="center">🎯 What I’m working on right now</div>
+<h2 align="center"><i><font color="#1abc9c">🎯 What I’m working on right now</font></i></h2>
 
 <div align="center">
 
@@ -29,18 +29,18 @@ I combine <b>10+ years of global design leadership</b> with software engineering
 
 <p align="center"><img src="image-1.png" alt="wave" width="320"></p>
 
-## <div align="center">🛠 Tech & Tools</div>
+<h2 align="center"><i><font color="#1abc9c">🛠 Tech & Tools</font></i></h2>
 
 <div align="center">
 
 <b>Languages & Backend</b><br>
-<code>C</code> <code>C++</code> <code>Python</code> <code>JavaScript</code> <code>TypeScript</code><br>
-<code>Node.js</code> <code>Fastify</code> <code>Express</code> <code>Docker</code>
+<code>C</code> <code>C++</code> <code>Python</code> <code>JavaScript</code> <br>
+<code>Node.js</code> <code>Fastify</code> <code>ExpressJS</code> <code>Docker</code>
 
 <br><br>
 
 <b>Frontend & Creative Coding</b><br>
-<code>React</code> <code>React Native</code> <code>Next.js</code> <code>GSAP</code> <code>TailwindCSS</code> <code>AngularJS</code>
+<code>React</code> <code>React Native</code> <code>Next.js</code> <code>GSAP</code> <code>TailwindCSS</code> <code>AngularJS</code> <code>TypeScript</code>
 
 <br><br>
 
@@ -54,11 +54,14 @@ I combine <b>10+ years of global design leadership</b> with software engineering
 <b>AI & Systems — Explored</b><br>
 <code>Vector Search (FAISS, Chroma)</code> <code>Ollama</code> <code>Flowise</code>
 
+ <b>Deployment & Cloud</b><br>
+<code>Google Cloud Run</code> <code>Docker</code> <code>CI/CD (GitHub Actions)</code>
+
 </div>
 
 <p align="center"><img src="image-1.png" alt="wave" width="320"></p>
 
-## <div align="center">📚 Background</div>
+<h2 align="center"><i><font color="#1abc9c">📚 Background</font></i></h2>
 
 <div align="center">
 
@@ -70,7 +73,7 @@ I combine <b>10+ years of global design leadership</b> with software engineering
 
 <p align="center"><img src="image-1.png" alt="wave" width="320"></p>
 
-## <div align="center">🌍 Languages</div>
+<h2 align="center"><i><font color="#1abc9c">🌍 Languages</font></i></h2>
 
 <div align="center">
 
@@ -82,5 +85,5 @@ Dutch — B1 (conversational) • French — A2 (learning)
 <p align="center"><img src="image-1.png" alt="wave" width="320"></p>
 
 <div align="center">
-✨ <i>I design and code with users in focus — merging logic, creativity, and technology into solutions that are elegant and effective.</i>
+✨ <i>I design and code with users in focus — merging logic, creativity, technology and a bit of magic into solutions that are elegant and effective.</i>
 </div>
