@@ -1,63 +1,86 @@
-![alt text](image.png)
+<!-- Top Banner -->
+<div align="center">
+  <img src="image.png" alt="Eva — AI & UX" width="220"><br><br>
+</div>
 
+# <div align="center">Hi, I’m Eva</div>
 
-# Hi, I’m Eva
+<div align="center">
+I’m a <b>Full-Stack Developer & Creative Technologist</b> based in Switzerland.  
+I combine <b>10+ years of global design leadership</b> with software engineering at
+<a href="https://42lausanne.ch"><b>42 Lausanne</b></a>, continuing full-stack training with an <b>AI specialization</b>.
+</div>
 
-I’m a **Full-Stack Developer & Creative Technologist** based in Switzerland.  
-I combine **10+ years of global design leadership** with **software engineering** at [42 Lausanne](https://42lausanne.ch), where I’m continuing full-stack training with an **AI specialization**.  
+<br>
 
+<!-- Wave divider -->
 <p align="center">
-  <img src="image.png" alt="Me working on AI & UX" width="100"/>
+  <img src="image-1.png" alt="wave" width="320">
 </p>
 
-## 🎯 What I’m working on right now
-- 🚀 Building full stack digital experiences with **Next.js + GSAP** — crafted with **UX, UI, and branding psychology** in mind to create a result-driven experience  
-- 🤖 Exploring **AI-enhanced user experiences** with PyTorch & real-time architectures  
+## <div align="center">🎯 What I’m working on right now</div>
 
+<div align="center">
 
-<p align="center">
-  <img src="image-1.png" alt="wave" width="300"/>
-</p>
+- 🚀 Building full-stack digital experiences with <b>Next.js + GSAP</b> — crafted with <b>UX, UI, and branding psychology</b> to be result-driven  
+- 🤖 Exploring <b>AI-enhanced user experiences</b> with <b>PyTorch</b> & real-time architectures  
 
-## 🛠 Tech & Tools
-**Languages & Backend**  
-`C` `C++` `Python` `JavaScript` `TypeScript`  
-`Node.js` `Fastify` `Express` `Docker`  
+</div>
 
-**Frontend & Creative Coding**  
-`React` `ReactNative` `Next.js` `GSAP` `TailwindCSS`  `AngularJS`
+<p align="center"><img src="image-1.png" alt="wave" width="320"></p>
 
-**AI & Systems**  
-PyTorch TensorFlow LangChain
-RAG pipelines Deep Q-Learning
-System Programming (C/C++)
-Evolutionary Algorithms (NEAT) Tensors
-Real-time Architectures (Websockets, multiplayer)
+## <div align="center">🛠 Tech & Tools</div>
 
-**AI & Systems — Explored**
-Vector Search (FAISS, Chroma) Ollama Flowise
+<div align="center">
 
-**Design & Prototyping**  
-`Figma` `Adobe Creative Suite` (Photoshop, Illustrator, InDesign, Premiere, After Effects, XD)  
+<b>Languages & Backend</b><br>
+<code>C</code> <code>C++</code> <code>Python</code> <code>JavaScript</code> <code>TypeScript</code><br>
+<code>Node.js</code> <code>Fastify</code> <code>Express</code> <code>Docker</code>
 
-![alt text](image-1.png)
+<br><br>
 
-## 📚 Background
-- 🎓 **42 Lausanne (2023– )** — Full-stack development & AI specialization  
-- 🎓 **2× M.A. in Design** → Graphic Moving Image (University of the Arts London) & Industrial Design & Visual Communication Specialization (Academy of Fine Arts & Design Wrocław)  
-- 💼 **10 years in design industry - sr designer, art director, team lead, creative** — leading projects for brands like adidas, TeamNL, Mercedes, McDonald’s, Unilever, Magnum, Knorr and many others  
+<b>Frontend & Creative Coding</b><br>
+<code>React</code> <code>React Native</code> <code>Next.js</code> <code>GSAP</code> <code>TailwindCSS</code> <code>AngularJS</code>
 
-![alt text](image-1.png)
+<br><br>
 
-## 🌍 Languages
-- 🇵🇱 Polish (native)  
-- 🇬🇧 English (C2, first language at work/study)  
-- 🇩🇪 German (B2 +learning)  
-- 🇳🇱 Dutch (B1 not learning)  
-- 🇫🇷 French (A1/A2 +learning)  
+<b>AI & Systems — Core</b><br>
+<code>PyTorch</code> <code>TensorFlow</code> <code>LangChain</code><br>
+<code>RAG pipelines</code> <code>Deep Q-Learning</code> <code>System Programming (C/C++)</code><br>
+<code>Evolutionary Algorithms (NEAT)</code> <code>Tensors</code> <code>Real-time Architectures (WebSockets, multiplayer)</code>
 
-![alt text](image-1.png)
+<br><br>
 
-✨ *I design and code with users in focus — merging logic, creativity, and technology into solutions that are elegant and effective.*  
+<b>AI & Systems — Explored</b><br>
+<code>Vector Search (FAISS, Chroma)</code> <code>Ollama</code> <code>Flowise</code>
 
-![alt text](image-1.png)
+</div>
+
+<p align="center"><img src="image-1.png" alt="wave" width="320"></p>
+
+## <div align="center">📚 Background</div>
+
+<div align="center">
+
+- 🎓 <b>42 Lausanne (2023– )</b> — Full-stack development & AI specialization  
+- 🎓 <b>2× M.A. in Design</b> — Graphic Moving Image (UAL London) & Industrial Design & Visual Communication (ASP Wrocław)  
+- 💼 <b>10 years in design industry</b> — Sr Designer / Art Director / Creative for adidas, TeamNL, Mercedes, McDonald’s, Unilever, Magnum, Knorr, and more
+
+</div>
+
+<p align="center"><img src="image-1.png" alt="wave" width="320"></p>
+
+## <div align="center">🌍 Languages</div>
+
+<div align="center">
+
+Polish — Native • English — C2 (primary working language) • German — B2 (improving) •  
+Dutch — B1 (conversational) • French — A2 (learning)
+
+</div>
+
+<p align="center"><img src="image-1.png" alt="wave" width="320"></p>
+
+<div align="center">
+✨ <i>I design and code with users in focus — merging logic, creativity, and technology into solutions that are elegant and effective.</i>
+</div>
