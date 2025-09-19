@@ -88,19 +88,23 @@ I combine <b>10+ years of global design leadership</b> with software engineering
 
 <br><br>
 
-<a href="https://www.coursera.org/account/accomplishments">
-  <img src="https://img.shields.io/badge/IBM-Deep%20Learning%20with%20Keras-1abc9c?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Deep Learning Certificate"/>
-</a>  
-<i>Introduction to Deep Learning & Neural Networks with Keras</i> — <b>Grade: 85%</b>  
+<p align="center"><img src="image-1.png" alt="wave" width="320"></p>
 
-<br><br>
+<h2 align="center"><i><font color="#1abc9c">📜 Certificates</font></i></h2>
 
-<a href="https://www.coursera.org/account/accomplishments">
-  <img src="https://img.shields.io/badge/Coursera-Linear%20Regression-1abc9c?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Linear Regression Certificate"/>
-</a>  
-<i>Simple Linear Regression for the Absolute Beginner</i> — <b>Grade: 100%</b>  
+<div align="center">
+
+- 🎓 <b>Foundations of User Experience (UX) Design</b> — Google  
+  <i>Grade Achieved: 91.6%</i>  
+
+- 🎓 <b>Introduction to Deep Learning & Neural Networks with Keras</b> — IBM  
+  <i>Grade Achieved: 85%</i>  
+
+- 🎓 <b>Simple Linear Regression for the Absolute Beginner</b> — Coursera Project Network  
+  <i>Grade Achieved: 100%</i>  
 
 </div>
+
 
 
 <p align="center"><img src="image-1.png" alt="wave" width="320"></p>
