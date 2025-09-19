@@ -66,7 +66,7 @@ I combine <b>10+ years of global design leadership</b> with software engineering
 <div align="center">
 
 - 🎓 <b>42 Lausanne (2023– )</b> — Full-stack development & AI specialization  
-- 🎓 <b>2× M.A. in Design</b> — Graphic Moving Image (UAL London) & Industrial Design & Visual Communication (ASP Wrocław)  
+- 🎓 <b>2× M.A. in Design</b> — Graphic Moving Image (University of the Arts UAL London) & Industrial Design & Visual Communication (Academy of Fine Arts & Design Wrocław)  
 - 💼 <b>10 years in design industry</b> — Sr Designer / Art Director / Creative for adidas, TeamNL, Mercedes, McDonald’s, Unilever, Magnum, Knorr, and more
 
 </div>
