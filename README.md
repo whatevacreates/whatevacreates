@@ -35,7 +35,7 @@ I combine <b>10+ years of global design leadership</b> with software engineering
 
 <b>Languages & Backend</b><br>
 <code>C</code> <code>C++</code> <code>Python</code> <code>JavaScript</code> <br>
-<code>Node.js</code> <code>Fastify</code> <code>ExpressJS</code> <code>Docker</code>
+<code>Node.js</code> <code>Fastify</code> <code>ExpressJS</code> <code>Flask</code> <code>Docker</code>
 
 <br><br>
 
