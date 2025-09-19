@@ -6,13 +6,18 @@
 I’m a **Full-Stack Developer & Creative Technologist** based in Switzerland.  
 I combine **10+ years of global design leadership** with **software engineering** at [42 Lausanne](https://42lausanne.ch), where I’m continuing full-stack training with an **AI specialization**.  
 
-![alt text](image-1.png)
+<p align="center">
+  <img src="image.png" alt="Me working on AI & UX" width="100"/>
+</p>
 
 ## 🎯 What I’m working on right now
 - 🚀 Building full stack digital experiences with **Next.js + GSAP** — crafted with **UX, UI, and branding psychology** in mind to create a result-driven experience  
 - 🤖 Exploring **AI-enhanced user experiences** with PyTorch & real-time architectures  
 
-![alt text](image-1.png)
+
+<p align="center">
+  <img src="image-1.png" alt="wave" width="300"/>
+</p>
 
 ## 🛠 Tech & Tools
 **Languages & Backend**  
