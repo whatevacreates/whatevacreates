@@ -73,6 +73,24 @@ I combine <b>10+ years of global design leadership</b> with software engineering
 
 <p align="center"><img src="image-1.png" alt="wave" width="320"></p>
 
+<h2 align="center"><i><font color="#1abc9c">📜 Certificates</font></i></h2>
+
+<div align="center">
+
+- 🎓 <b>Foundations of User Experience (UX) Design</b> — Google  
+  <i>Grade Achieved: 91.6%</i>  
+
+- 🎓 <b>Introduction to Deep Learning & Neural Networks with Keras</b> — IBM  
+  <i>Grade Achieved: 85%</i>  
+
+- 🎓 <b>Simple Linear Regression for the Absolute Beginner</b> — Coursera Project Network  
+  <i>Grade Achieved: 100%</i>  
+
+</div>
+
+
+<p align="center"><img src="image-1.png" alt="wave" width="320"></p>
+
 <h2 align="center"><i><font color="#1abc9c">🌍 Languages</font></i></h2>
 
 <div align="center">
