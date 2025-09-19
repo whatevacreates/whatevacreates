@@ -97,8 +97,8 @@ I combine <b>10+ years of global design leadership</b> with software engineering
 
 <div align="center">
 
-Polish — Native • English — C2 (primary working language) • German — B2 (improving) •  
-Dutch — B1 (conversational) • French — A2 (learning)
+Polish — Native </br> English — C2 (primary working language) </br> German — B2 (improving) </br> 
+Dutch — B1 (conversational) </br> French — A2 (learning)
 
 </div>
 
