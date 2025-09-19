@@ -71,25 +71,6 @@ I combine <b>10+ years of global design leadership</b> with software engineering
 
 </div>
 
-<p align="center"><img src="image-1.png" alt="wave" width="320"></p>
-
-<h2 align="center"><i><font color="#1abc9c">📜 Certificates</font></i></h2>
-
-<p align="center"><img src="image-1.png" alt="wave" width="320"></p>
-
-<h2 align="center"><i><font color="#1abc9c">📜 Certificates</font></i></h2>
-
-<div align="center">
-
-<a href="https://www.coursera.org/account/accomplishments">
-  <img src="https://img.shields.io/badge/Google-UX%20Design-1abc9c?style=for-the-badge&logo=google&logoColor=white" alt="Google UX Certificate"/>
-</a>  
-<i>Foundations of User Experience (UX) Design</i> — <b>Grade: 91.6%</b>  
-
-<br><br>
-
-<p align="center"><img src="image-1.png" alt="wave" width="320"></p>
-
 <h2 align="center"><i><font color="#1abc9c">📜 Certificates</font></i></h2>
 
 <div align="center">
