@@ -82,7 +82,10 @@ I combine <b>10+ years of global design leadership</b> with software engineering
   <i>Grade Achieved: 85%</i>  
 
 - 🎓 <b>Simple Linear Regression for the Absolute Beginner</b> — Coursera Project Network  
-  <i>Grade Achieved: 100%</i>  
+  <i>Grade Achieved: 100%</i>
+
+- 🎓 <b>Develop Generative AI Applications</b> — IBM
+  <i>Grade Achieved: 95.23%</i>  
 
 </div>
 
